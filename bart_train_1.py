@@ -56,7 +56,7 @@ model = BartForConditionalGeneration.from_pretrained('facebook/bart-large',num_l
 
 class BartCondDataset(Dataset):
 
-  def __init__(self, data: pd.DataFrame, tokenizer: BartTokenizer, max_token_len: int = 100):
+  def __init__(self, data: pd.DataFrame, tokenizer: BartTokenizer, max_token_len: int = 128):
     self.tokenizer = tokenizer
     self.data = data
     self.max_token_len = max_token_len
