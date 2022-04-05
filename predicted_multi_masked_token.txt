@@ -1,0 +1,257 @@
+
+
+-----####1######--------
+-----####ORIGINAL statement: 
+“Federal magistrate approves $110 million defamation suit against LeBron James by Kyle Rittenhouse.”
+MASKED statement: 
+“<mask> approves $110 million defamation suit against <mask>.”
+
+
+-----####1######--------
+-----####ORIGINAL statement: 
+“Federal magistrate approves $110 million defamation suit against LeBron James by Kyle Rittenhouse.”
+MASKED statement: 
+“<mask> approves $110 million defamation suit against <mask>.”
+
+
+-----####1######--------
+-----####ORIGINAL statement: 
+“Federal magistrate approves $110 million defamation suit against LeBron James by Kyle Rittenhouse.”
+MASKED statement: 
+“<mask> approves $110 million defamation suit against <mask>.”
+GENERATED statement: 
+“ Trump approves $110 million defamation suit against.”Read more: http://bit.ly/2w4L4kD
+
+
+-----####2######--------
+-----####ORIGINAL statement: 
+A chart shows China and India are leading in per capita carbon dioxide emissions.
+MASKED statement: 
+A chart shows China and <mask> are leading in per capita <mask> emissions.
+GENERATED statement: 
+A chart shows China and the United States are leading in per capita carbon emissions.Source: Reuters/Ipsos-EFE/Shutterstock
+
+
+-----####3######--------
+-----####ORIGINAL statement: 
+Heart complications are one symptom “listed” for the omicron variant and are being “used to cover up effects” of COVID-19 vaccines.
+MASKED statement: 
+Heart complications are one symptom “listed” for the omicron variant <mask>.
+GENERATED statement: 
+Heart complications are one symptom “listed” for the omicron variant. However, none have been reported.Source: Medindia
+
+
+-----####4######--------
+-----####ORIGINAL statement: 
+"Don’t be fooled by the next ‘Variant’! There are actually 1000’s of them. They just will pick the next one to keep the fear going."
+MASKED statement: 
+Don’t be fooled by the next ‘Variant’! There are actually 1000’s of them. They just will pick <mask>.
+GENERATED statement: 
+Don’t be fooled by the next ‘Variant’! There are actually 1000’s of them. They just will pick.
+
+
+-----####5######--------
+-----####ORIGINAL statement: 
+Black Friday originated in 1904 when enslaved people were sold at a discount to boost the economy.
+MASKED statement: 
+Black <mask> originated in 1904 when <mask> people were sold at a discount to boost the economy.
+GENERATED statement: 
+Black Friday originated in 1904 when goods and services used by black people were sold at a discount to boost the economy.https://www.youtube.com/watch?v=kWmZg0mVk9I
+
+
+-----####6######--------
+-----####ORIGINAL statement: 
+“BREAKING: Judge in Ghislaine Maxwell trial issues media-wide gag order: all press & spectators barred from courtroom.”
+MASKED statement: 
+“BREAKING: <mask> in Ghislaine Maxwell trial issues <mask>: all press & spectators barred from courtroom.”
+GENERATED statement: 
+“BREAKING: Judge orders gag order in Ghislaine Maxwell trial: all press & spectators barred from courtroom. No comment.”
+
+
+-----####7######--------
+-----####ORIGINAL statement: 
+“39 out of 42 (countries) in Europe have more restrictive abortion laws” than Mississippi.
+MASKED statement: 
+“39 out of 42 (countries) in <mask> have more restrictive abortion laws” than Mississippi.
+GENERATED statement: 
+“39 out of 42 (countries) in the world have more restrictive abortion laws” than Mississippi. “It’s outrageous,” he said.
+
+
+-----####8######--------
+-----####ORIGINAL statement: 
+Low gas prices in Russia, Kuwait and Saudi Arabia show that Joe Biden’s decision to cancel the Keystone Pipeline project is to blame for U.S. prices.
+MASKED statement: 
+Low <mask> prices in Russia, Kuwait and Saudi Arabia show that <mask>’s decision to <mask>
+GENERATED statement: 
+Low oil prices in Russia, Kuwait and Saudi Arabia show that’s decision to be made now.Source: Bloomberg.com (sp)
+
+
+-----####9######--------
+-----####ORIGINAL statement: 
+“Kyle Rittenhouse files $400 million suit against CNN!”
+MASKED statement: 
+“<mask> files $400 million suit against <mask>!”
+GENERATED statement: 
+“ Trump files $400 million suit against!” https://www.youtube.com/watch?v=kDfBk6Q3QsU
+
+
+-----####1######--------
+-----####ORIGINAL statement: 
+“Federal magistrate approves $110 million defamation suit against LeBron James by Kyle Rittenhouse.”
+MASKED statement: 
+“<mask> approves $110 million defamation suit against <mask>.”
+GENERATED statement: 
+“ Trump’s lawyer approves $110 million defamation suit against.” https://t.co/
+
+
+-----####2######--------
+-----####ORIGINAL statement: 
+A chart shows China and India are leading in per capita carbon dioxide emissions.
+MASKED statement: 
+A chart shows China and <mask> are leading in per capita <mask> emissions.
+GENERATED statement: 
+A chart shows China and the US are leading in per capita greenhouse gas emissions. (Source: EPA)Commentscomments
+
+
+-----####3######--------
+-----####ORIGINAL statement: 
+Heart complications are one symptom “listed” for the omicron variant and are being “used to cover up effects” of COVID-19 vaccines.
+MASKED statement: 
+Heart complications are one symptom “listed” for the omicron variant <mask>.
+GENERATED statement: 
+Heart complications are one symptom “listed” for the omicron variant. However, there are no known
+
+
+-----####4######--------
+-----####ORIGINAL statement: 
+"Don’t be fooled by the next ‘Variant’! There are actually 1000’s of them. They just will pick the next one to keep the fear going."
+MASKED statement: 
+Don’t be fooled by the next ‘Variant’! There are actually 1000’s of them. They just will pick <mask>.
+GENERATED statement: 
+Don’t be fooled by the next ‘Variant’! There are actually 1000’s
+
+
+-----####5######--------
+-----####ORIGINAL statement: 
+Black Friday originated in 1904 when enslaved people were sold at a discount to boost the economy.
+MASKED statement: 
+Black <mask> originated in 1904 when <mask> people were sold at a discount to boost the economy.
+GENERATED statement: 
+Black Friday originated in 1904 when goods and services used by black people were sold at a discount to boost the economy.
+
+
+-----####6######--------
+-----####ORIGINAL statement: 
+“BREAKING: Judge in Ghislaine Maxwell trial issues media-wide gag order: all press & spectators barred from courtroom.”
+MASKED statement: 
+“BREAKING: <mask> in Ghislaine Maxwell trial issues <mask>: all press & spectators barred from courtroom.”
+GENERATED statement: 
+“BREAKING: Latest development in Ghislaine Maxwell trial: all press & spectators barred from courtroom.�
+
+
+-----####7######--------
+-----####ORIGINAL statement: 
+“39 out of 42 (countries) in Europe have more restrictive abortion laws” than Mississippi.
+MASKED statement: 
+“39 out of 42 (countries) in <mask> have more restrictive abortion laws” than Mississippi.
+GENERATED statement: 
+“39 out of 42 (countries) in the world have more restrictive abortion laws” than Mississippi.
+
+
+-----####8######--------
+-----####ORIGINAL statement: 
+Low gas prices in Russia, Kuwait and Saudi Arabia show that Joe Biden’s decision to cancel the Keystone Pipeline project is to blame for U.S. prices.
+MASKED statement: 
+Low <mask> prices in Russia, Kuwait and Saudi Arabia show that <mask>’s decision to <mask>
+GENERATED statement: 
+Low oil prices in Russia, Kuwait and Saudi Arabia show that’s decision to cut production is paying off.
+
+
+-----####9######--------
+-----####ORIGINAL statement: 
+“Kyle Rittenhouse files $400 million suit against CNN!”
+MASKED statement: 
+“<mask> files $400 million suit against <mask>!”
+GENERATED statement: 
+“ Trump files $400 million suit against!” http://www.nytimes.com/2017/
+
+
+-----####1######--------
+-----####ORIGINAL statement: 
+“Federal magistrate approves $110 million defamation suit against LeBron James by Kyle Rittenhouse.”
+MASKED statement: 
+<mask> approves $110 million defamation suit against <mask>
+GENERATED statement: 
+U.S. judge approves $110 million defamation suit against ex-Rep. Gabrielle GiffordsRelated Videohttp://www.cnn.com/videos
+
+
+-----####2######--------
+-----####ORIGINAL statement: 
+A chart shows China and India are leading in per capita carbon dioxide emissions.
+MASKED statement: 
+A chart shows China and <mask> are leading in per capita <mask> emissions
+GENERATED statement: 
+A chart shows China and the United States are leading in per capita carbon emissions.Source: Greenpeace.org/carbon-emissions-by-country/China/
+
+
+-----####3######--------
+-----####ORIGINAL statement: 
+Heart complications are one symptom “listed” for the omicron variant and are being “used to cover up effects” of COVID-19 vaccines.
+MASKED statement: 
+Heart complications are one symptom “listed” for the omicron variant <mask>
+GENERATED statement: 
+Heart complications are one symptom “listed” for the omicron variant of the disease.Source: http://bit.ly/2jYbX
+
+
+-----####4######--------
+-----####ORIGINAL statement: 
+"Don’t be fooled by the next ‘Variant’! There are actually 1000’s of them. They just will pick the next one to keep the fear going."
+MASKED statement: 
+Don’t be fooled by the next ‘Variant’! There are actually 1000’s of them. They just will pick <mask>
+GENERATED statement: 
+Don’t be fooled by the next ‘Variant’! There are actually 1000’s of them. They just will pick the one you
+
+
+-----####5######--------
+-----####ORIGINAL statement: 
+Black Friday originated in 1904 when enslaved people were sold at a discount to boost the economy.
+MASKED statement: 
+Black <mask> originated in 1904 when <mask> people were sold at a discount to boost the economy
+GENERATED statement: 
+Black Friday originated in 1904 when millions of dollars worth of goods and people were sold at a discount to boost the economy https://www.youtube.com/watch?
+
+
+-----####6######--------
+-----####ORIGINAL statement: 
+“BREAKING: Judge in Ghislaine Maxwell trial issues media-wide gag order: all press & spectators barred from courtroom.”
+MASKED statement: 
+BREAKING: <mask> in Ghislaine Maxwell trial issues <mask>: all press & spectators barred from courtroom
+GENERATED statement: 
+BREAKING: First hearing in Ghislaine Maxwell trial issues: all press & spectators barred from courtroom© Reuters / Andrew Boyers/File Photo/AP/File
+
+
+-----####7######--------
+-----####ORIGINAL statement: 
+“39 out of 42 (countries) in Europe have more restrictive abortion laws” than Mississippi.
+MASKED statement: 
+“39 out of 42 (countries) in <mask> have more restrictive abortion laws” than Mississippi.
+GENERATED statement: 
+“39 out of 42 (countries) in the world have more restrictive abortion laws” than Mississippi. “That’s crazy,”
+
+
+-----####8######--------
+-----####ORIGINAL statement: 
+Low gas prices in Russia, Kuwait and Saudi Arabia show that Joe Biden’s decision to cancel the Keystone Pipeline project is to blame for U.S. prices.
+MASKED statement: 
+Low <mask> prices in Russia, Kuwait and Saudi Arabia show that <mask>’s decision to <mask>
+GENERATED statement: 
+Low oil prices in Russia, Kuwait and Saudi Arabia show that’s decision to cut production is paying off.Source: Reuters/Ipsos/Shutterstock
+
+
+-----####9######--------
+-----####ORIGINAL statement: 
+“Kyle Rittenhouse files $400 million suit against CNN!”
+MASKED statement: 
+“<mask> files $400 million suit against <mask>”
+GENERATED statement: 
+“ Trump’s son-in-law files $400 million suit against” http://www.nytimes.com/2017/06/15
